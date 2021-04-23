@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+}
+table{
+  margin: auto;
+}
+td{
+  height: 100px;
+  width: 100px;
+}
+.verde{
+  background-color: #62C421;
+}
+.gris{
+  background-color: #ADB2AA;
+}
+.azul{
+  background-color: #366CC9;
+}

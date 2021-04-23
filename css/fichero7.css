@@ -1,0 +1,29 @@
+body{
+  font-family: quicksand;
+  text-align: center;
+  background-color: gray;
+}
+h1{
+  padding-top: 20px;
+  font-weight: bold;
+}
+.formulario{
+  background-color: white;
+
+
+}
+.lorem{
+  padding-left: 400px;
+  padding-right: 400px;
+  text-align: justify;
+}
+.boton{
+background-color: darkgray;
+color: white;
+font-family: quicksand;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 5px;
+}
