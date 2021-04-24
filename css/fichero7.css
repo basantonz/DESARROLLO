@@ -1,29 +1,25 @@
+/* Esta hoja de estilo es para el formulario de alta de usuario */
 body{
-  font-family: quicksand;
   text-align: center;
-  background-color: gray;
+  border: 40px solid gray;
+  font-family: quicksand;
 }
-h1{
-  padding-top: 20px;
-  font-weight: bold;
+p{
+  margin-left: 30%;
+  margin-right: 30%;
 }
-.formulario{
-  background-color: white;
-
-
+input{
+  font-size: 1.2em;
 }
-.lorem{
-  padding-left: 400px;
-  padding-right: 400px;
-  text-align: justify;
+#boton{
+  background-color: grey;
+  color: white;
+  margin: 20px;
+  height: 50px;
+  width: 100px;
+  font-size: 1.2em;
+  border-radius: 15px;
 }
-.boton{
-background-color: darkgray;
-color: white;
-font-family: quicksand;
-padding-top: 5px;
-padding-bottom: 5px;
-padding-left: 10px;
-padding-right: 10px;
-border-radius: 5px;
+label{
+  font-size: 1.2em;
 }
